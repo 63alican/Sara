@@ -28,7 +28,7 @@ while True:
         print('Okuma Başladı')
         print(' ')
         # Metin olarak görmek istediğimiz resmin yolunu belirtiyoruz
-        print(metinOku(r'C:\fatura.png'))#burada tarayacağımız görüntünün adresini girmeliyiz bu her makinede değişiklik göstermektedir 
+        print(metinOku(r'C:\fatura.png'))
         print(' ')
         print('Okuma Bitti')
     else:
